@@ -1,0 +1,27 @@
+_repo: The-History-of-Minnesota-and-Tales-of-the-Frontier_25677
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 25677-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Flandrau, Charles E. (Charles Eugene)
+    birthdate: 1828
+    deathdate: 1903
+    gutenberg_agent_id: '31500'
+    url: http://www.gutenberg.org/2009/agents/31500
+description: ''
+gutenberg_issued: '2008-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25677'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Minnesota -- History'
+- !lcc 'F590.3'
+- !lcsh 'Frontier and pioneer life -- Minnesota'
+title: The History of Minnesota and Tales of the Frontier
+url: http://www.gutenberg.org/ebooks/25677
